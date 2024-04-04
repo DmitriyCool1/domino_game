@@ -49,7 +49,7 @@ namespace Курсовой_проект___Домино
             pict.BringToFront();
             pict.BackColor = System.Drawing.Color.Green; //Выбор фонового цвета
 
-            Form1.ActiveForm.Controls.Add(pict); //Добавление домино на форму
+            Form1.ActiveForm.Controls.Add(pict); 
         }
 
 
